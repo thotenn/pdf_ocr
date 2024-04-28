@@ -1,0 +1,6 @@
+venv/
+pdf_compressed/
+pdf_ocr/
+pdf_originals/
+.idea/
+__pycache__/
